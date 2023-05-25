@@ -1,2 +1,2 @@
 # market
-중고웹사이트 repository
+간단한 중고웹사이트 repository
